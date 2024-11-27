@@ -1,0 +1,16 @@
+- Google Auth login
+- Company Account with different users, i.e., Commander and Operator
+- CRUD for the Automata
+- All data will be kept in JSON format
+- The Automata shall keep relevant data as:
+    - ID
+    - Name
+    - Description
+    - Creation
+    - Link to Associated Workflow(s)
+    - Status
+    - Logs (Who used, when and where)
+- Parallelism of the Automata executing
+- CI/CD
+- Test Driven Development
+- Multiple Versions in the future.
